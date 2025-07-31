@@ -23,9 +23,7 @@ Las salidas del programa son: la conversión de tasa anual, el valor al finaliza
 Susana Morales
 Pedro Hernandez
 
-  Calcular el valor futuro del prestamo al finalizar el periodo de gracia
-  Calcular la cuota mensual durante el periodo de amortización,
-  dependiendo de la tasa de interes que le cobre la entidad del credito educativo.
+
 
 
 
